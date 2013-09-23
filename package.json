@@ -1,6 +1,6 @@
 {
 	"name": "runner-runner",
-	"version": "0.1.2",
+	"version": "0.1.3",
 	"description": "Application bootsrapper",
 	"main": "index.js",
 	"repository": {
